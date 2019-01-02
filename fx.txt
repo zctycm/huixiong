@@ -2,14 +2,14 @@
 	"data": [{
 
 			"title": "广告位招租",
-			"img": "http://pan.i8l.cn/data/guangg.png",
+			"img": "https://s2.ax1x.com/2019/01/02/FIcMx1.jpg",
 			"url": "http://wpa.qq.com/msgrd?v=3&uin=2298950301"
 		},
 		{
 
-			"title": "专治男人早泄神器点击咨询疗效显著",
-			"img": "http://pan.i8l.cn/data/lzt.jpg",
-			"url": "http://wpa.qq.com/msgrd?v=3&uin=749936227"
+			"title": "",
+			"img": "https://s2.ax1x.com/2019/01/02/FIcMx1.jpg",
+			"url": "http://wpa.qq.com/msgrd?v=3&uin=2298950301"
 		}
 		
 	]
